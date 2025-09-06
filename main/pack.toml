@@ -1,0 +1,13 @@
+name = "fabricEssentials"
+author = "Nobody"
+version = "0.1.0+1.21.8"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2fed5abadcec5099387b03cd73b08e3843ac7e6f8cddd6e374c3b9528238edb4"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"
